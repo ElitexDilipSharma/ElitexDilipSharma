@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/elitexdilipsharma702197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/elitexdilipsharma702197" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/elitexdilipsharma702197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/elitexdilipsharma702197" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma0.1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<ds915uy19>/dilipsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<ds915uy19>/dilipsharma" height="30" width="40" /></a>
 </p>
